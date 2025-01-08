@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "456788446251",
+    "project_id": "alfajri-so",
+    "storage_bucket": "alfajri-so.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456788446251:android:62aa78d367cb5c78482e6e",
+        "android_client_info": {
+          "package_name": "com.alfajri.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456788446251-igcmt4r011u005b75it8bnnr362u2pbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn_QknNwm2d3sdrfUYo1EBzcLy8cHqZvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456788446251-igcmt4r011u005b75it8bnnr362u2pbh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456788446251-3tfcq5grmu9ljq16lvsffj7jrj5t0pfg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alfajri.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
